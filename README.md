@@ -33,6 +33,10 @@ Conforme __critérios__ pré-estabelecidos, e o decorrer dos jogos, a tabela de 
 
 <img src="./img/tabela.png" width="100%" height="auto" />
 
+<img src="./img/prejogo.png" width="100%" height="auto" />
+
+<img src="./img/campo.png" width="100%" height="auto" />
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
